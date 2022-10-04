@@ -36,5 +36,6 @@ for(int num=0; num<i; num++){
     }
 }
 printf("\nSe han convertido [ %d ] caracteres a minusculas: %s \n", contadorMayusculas, cadenaUsuario);
+printf("\nSantiago Robles");
 return 0;
 }
